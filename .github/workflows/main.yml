@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: macos-latest
     env:
-      SHEME: test
+      SHEME: Runner
       BUILD_CONFIGURATION: Release
       TEAM_ID: J48QZ82532
       PROVISIONING_PROFILE: aa779a39-546a-4ca6-91ed-cf509aa59b3e
